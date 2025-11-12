@@ -10,7 +10,7 @@ html, body {
   margin: 0;
   height: 100%;
   width: 100%;
-  font-family: 'Houze', sans-serif
+  font-family: 'Houze', sans-serif;
 }
 
 .container {
@@ -33,7 +33,7 @@ h1 {
 
 p {
   text-align: left;
-  overflow-wrap: break-word
+  overflow-wrap: break-word;
 }
 
 #viewDiv {
